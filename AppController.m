@@ -16,7 +16,7 @@
 
 
 #define _DISPLENGTH 40
-5
+
 //enum {
 //    NSWindowCollectionBehaviorDefault = 0,
 //    NSWindowCollectionBehaviorCanJoinAllSpaces = 1 << 0,
